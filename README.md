@@ -1,4 +1,4 @@
-# Sugestões para Implementação de Logs de Startup e Acesso em APIs
+# Sugestões para Implementação de Logs 'startup' ao inciar API
 
 ## Resultado esperado
 
